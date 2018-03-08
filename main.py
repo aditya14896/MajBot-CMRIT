@@ -30,7 +30,7 @@ def hello():
 @app.route('/register',methods=['GET','POST'])
 def register():
     error= None
-    #return render_template('chat.html')
+    return render_template('chat.html')
     if 'logged_in' in session:
         return render_template('chat.html')
     if request.method == 'POST':
