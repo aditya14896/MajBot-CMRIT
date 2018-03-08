@@ -44,6 +44,9 @@
 
 <!-- Load additional AIML set -->
 <learn>aiml/additional/computer.aiml</learn>
+<learn>aiml/additional/poker.aiml</learn>
+<learn>aiml/additional/howmany.aiml</learn>
+<learn>aiml/additional/cmr.aiml</learn>
 
 </template>
 </category>

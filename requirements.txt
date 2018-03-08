@@ -1,2 +1,4 @@
 Flask==0.12
 aiml==0.8.6
+flask-restful==0.3.6
+pywin32

@@ -26,7 +26,3 @@ Added New GUI compatible with all browsers, mobiles with autoscroll
 
 ## Screenshot
 ![chatbot](https://user-images.githubusercontent.com/1708683/27002771-68618802-4e0b-11e7-870a-3c05e3f68146.png)
-
-## Author
-
-[Sohel Amin](http://www.sohelamin.com)
