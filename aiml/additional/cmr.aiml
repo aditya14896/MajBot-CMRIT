@@ -25,7 +25,7 @@ The current Head of CSE Department is Dr. S Arvind
 </category>
 
 <category>
-<pattern>** EXAM FEE</pattern>
+<pattern>* EXAM FEE</pattern>
 <template>
 The last day to pay examination fee is 12th March
 </template>
