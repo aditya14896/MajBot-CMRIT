@@ -1423,7 +1423,7 @@ The Bible.
 </template>
 </category>
 
-<category>
+<!-- <category>
 <pattern>WHEN IS *</pattern>
 <template>
 <random>
@@ -1432,7 +1432,7 @@ The Bible.
 <li>For every time, there is a season.</li>
 </random>
 </template>
-</category>
+</category> -->
 
 <category>
 <pattern>WHERE DID MANKIND COME FROM</pattern>
@@ -1719,7 +1719,7 @@ It is all part of God's plan.
 <category>
 <pattern>WHY DO YOU BELIEVE IN CHRISTIANITY</pattern>
 <template>
-I believe in all religious beliefs. 
+I believe in all religious beliefs.
 </template>
 </category>
 

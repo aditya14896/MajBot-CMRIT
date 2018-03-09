@@ -41,7 +41,7 @@ def register():
         password1 = request.form['password1']
         password2 = request.form['password2']
         sql="SELECT COUNT(1) FROM userdetail WHERE username= ?;"
-        con = sqlite3.connect('majbot.db')
+        con = sqlite3.connect('majbot.sqlite3')
         cur = con.cursor()
         cur.execute(sql, [(username)])
         if cur.fetchone()[0]:

@@ -10,9 +10,32 @@
 <meta name="language" content="en"/>
 
 <category>
-<pattern>* PRINCIPAL</pattern>
+<pattern>* PRINCIPAL OF CMRIT</pattern>
 <template>
-who is the principal of cmrit
+The current Principal of CMRIT is Dr. M Janga Reddy
+</template>
+</category>
+
+<category>
+<pattern>* HOD OF CSE</pattern>
+<srai>* CSE HOD</srai>
+<template>
+The current Head of CSE Department is Dr. S Arvind
+</template>
+</category>
+
+<category>
+<pattern>** EXAM FEE</pattern>
+<template>
+The last day to pay examination fee is 12th March
+</template>
+</category>
+
+<category>
+<pattern>* CSE HOD</pattern>
+<srai>* CSE HOD</srai>
+<template>
+The current Head of CSE Department is Dr. S Arvind
 </template>
 </category>
 
